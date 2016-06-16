@@ -14,6 +14,6 @@ public class ControllerA {
     @RequestMapping("/")
     public String greeting( ) {
 
-        return "greeting";
+        return "greeting new";
     }
 }
